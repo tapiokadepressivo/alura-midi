@@ -9,6 +9,7 @@ else
 
   console.log('elemento nâo encontrado ou seletor inválido'):
 }
+}
 
   const listaDeTeclas = document.querySelectorAll('.tecla');
 
